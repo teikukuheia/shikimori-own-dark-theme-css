@@ -41,3 +41,23 @@ tbody .index { background: #222 !important; }
 .b-menu_logo { background: white !important; padding: 10px !important; }
 
 .tipsy-inner { box-shadow: 1px 1px 25px rgba(0,0,0,.5) !important; }
+
+.line .value { color: #fff !important; }
+
+.opinion { background: #333 !important; }
+
+.navigation-node-all { background: #909398 !important; } 
+
+.navigation-node-positive { background: #9ba78f !important; }
+
+.navigation-node-neutral { background: #9ba9ab !important; }
+
+.navigation-node-negative { background: #b29798 !important; }
+
+.neutral { color: #9ba9ab !important; }
+
+.b-offtopic_marker::before { background: #af99a3 !important; border: none !important; outline: none !important; }
+
+.anime-tag, .manga-tag, .ranobe-tag { border: none !important; outline: none !important; }
+
+.block2 .subheadline { background: #555 !important; }
