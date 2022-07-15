@@ -1,0 +1,43 @@
+body { background: url("https://github.com/teikukuheia/shikimori-own-dark-theme-css/blob/main/background.png?raw=true") no-repeat fixed; }
+
+.comments-loader, .summary, .l-page, select { background: #222222 !important; color: white !important; }
+
+.unread span, .subject, .x_label, .text, h1, h2, h3, h4, a, a::before, div::before, .comments, .title, .search-marker, .index, .genre, .b-tag, .comments::before, time::before, .notice span, .link-title, .link-current, .no-hover span, .link-total, .notice, li, .key, .rating { color: white !important }
+
+.other-names, .subheadline, .skyblue, .headline, textarea, .b-spoiler_inline { background: #333333 !important; color: white !important }
+
+.m5, .search-mode, .nothing_found, .tooltip-inner, .b-spoiler_block div, .b-spoiler_inline:hover { background: #444444; !important; color: white !important }
+
+.b-anime_status_tag, .add-trigger, .trigger, input, .ajax-loading, .b-db_entry-variant-list_item, .b-quote, .b-quote-v2, .b-footer_vote, .b-hot_topics-v2 { background: #444 !important; color: white !important }
+
+.d-cutted_covers .b-db_entry-variant-list_item, .active, .index, .order-control { background: #333 !important; color: white !important; }
+
+.slide::before, .match-day .started:hover, .match-day .match-link:hover, .add-trigger:hover, .search-mode:hover, li:hover, .selected, .selectable:hover, .icon-mail:hover, .b-code_inline { background: #333 !important; }
+/* hover effects styling above line */
+
+.match-day .active { background: none !important; }
+/* minor fix above */
+
+.my-list a, .my-list .title { color: #000 !important; }
+
+.anime-tag { background: #af9a98 !important; }
+
+.manga-tag { background: #93a2a7 !important; }
+
+.ranobe-tag { background: #8da182 !important; }
+
+.linkheadline { mix-blend-mode: difference !important; }
+
+.ajax-loading, .b-code_inline { border: none !important; outline: none !important; }
+
+.add-trigger, .trigger, textarea { border: none !important; }
+
+.b-db_entry-variant-list_item .b-tag { background: none !important; }
+
+tbody .index { background: #222 !important; }
+
+.b-mention, .b-mention s, .score-value, .c-additionals b { color: var(--link-color) !important; }
+
+.b-menu_logo { background: white !important; padding: 10px !important; }
+
+.tipsy-inner { box-shadow: 1px 1px 25px rgba(0,0,0,.5) !important; }
